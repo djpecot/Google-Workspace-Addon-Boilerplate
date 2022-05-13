@@ -1,8 +1,8 @@
 {
   "addOns": {
     "common": {
-      "name": "TEST ENV",
-      "logoUrl": "https://www.gstatic.com/images/icons/material/system/1x/pets_black_48dp.png",
+      "name": "Grade Gun vBeta",
+      "logoUrl": "https://toppng.com/uploads/preview/water-gun-gun-emoji-transparent-11563350380epxsqu9ix2.png",
       "useLocaleFromApp": true,
       "universalActions": [
         {
@@ -66,7 +66,8 @@
     "https://www.googleapis.com/auth/script.locale",
     "https://www.googleapis.com/auth/script.external_request",
     "https://www.googleapis.com/auth/script.scriptapp",
-    "https://www.googleapis.com/auth/userinfo.email"
+    "https://www.googleapis.com/auth/userinfo.email",
+    "https://www.googleapis.com/auth/classroom.courses.readonly"
   ],
   "runtimeVersion": "V8"
 }
